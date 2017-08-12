@@ -1,0 +1,2 @@
+# Smart-Cheque-Deposit
+Smart Cheque Deposit (SCD) is a system that allows a customer to scan checks remotely and transmit the check images to a bank for deposit, usually via an encrypted Internet connection. When the bank receives a check image from the customer, it posts the deposit to the customer's account and makes the funds available based upon the customer's particular availability schedule. Banks typically offer SCD to business customers rather than to individuals.
